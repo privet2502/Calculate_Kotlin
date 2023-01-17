@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Calc" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/almostBlack</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
